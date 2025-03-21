@@ -4,7 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### My Projects
+### Homework 1 
 
-- **Project One** – A cool thing I made.
-- **Project Two** – Another cool thing.
+- [**HW1Q2**](https://github.com/MertAkhn06/HOMEWORK/blob/main/HW1Q2.c)
+- [**HW1Q3**](https://github.com/MertAkhn06/HOMEWORK/blob/main/HW1Q3.c)
+- [**HW1Q4**](https://github.com/MertAkhn06/HOMEWORK/blob/main/HW1Q4.c)
