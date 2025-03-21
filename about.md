@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Your Name. This is a little bit about me.
+#Mert Akhan Boran.Undergraduate Electrical-Electronical Engineering Student @ Hacettepe University.\
+Student Number:2240357006\
+Email:mert.boran@hacettepe.edu.tr
