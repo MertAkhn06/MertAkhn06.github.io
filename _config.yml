@@ -1,0 +1,14 @@
+title: My GitHub Pages Site
+author: Your Name
+description: A simple personal site
+theme: minima
+markdown: kramdown
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
