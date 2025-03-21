@@ -14,9 +14,4 @@ nav:
   - title: "Projects"
     url: /projects
 
-author:
-  name: Mert Akhan Boran
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/MertAkhn06"
+
