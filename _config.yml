@@ -14,12 +14,4 @@ nav:
   - title: "Projects"
     url: /projects
 
-author:
-  name: Your Name
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yourusername"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
+
