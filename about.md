@@ -8,5 +8,5 @@ permalink: /about/
 Student Number:2240357006\
 Email:mert.boran@hacettepe.edu.tr\
 \
-[GitHub](https://github.com/MertAkhn06)\
-[Linkedin](https://www.linkedin.com/in/mert-boran-3930a431b/)
+<a href="https://github.com/MertAkhn06" target="_blank" rel="noopener noreferrer">My Github Page</a>\
+<a href="https://www.linkedin.com/in/mert-boran-3930a431b/" target="_blank" rel="noopener noreferrer">LinkedIn Profile</a>
